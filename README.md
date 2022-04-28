@@ -11,7 +11,6 @@ go run main.go
 
 Example output:
 ```
-domain, hasMX, hasSPF, spfRecord, hasDMARC, dmarcRecord
 gmail.com
 Domain: gmail.com
 MX: true
